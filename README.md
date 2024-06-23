@@ -1,0 +1,2 @@
+# Hauffman-code
+hauffman code
